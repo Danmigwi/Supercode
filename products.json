@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Small Khakis",
+    "photo_url": "khakis.jpg",
+    "price": 29.49
+  },
+  {
+    "name": "Black Khakis",
+    "photo_url": "khakis2.jpg",
+    "price": 19.49
+  },
+  {
+    "name": "Red Khakis",
+    "photo_url": "khakis3.jpg",
+    "price": 24.49
+  },
+  {
+    "name": "Yellow Khakis",
+    "photo_url": "khakis4.jpg",
+    "price": 2.99
+  },
+  {
+    "name": "Blue Khakis",
+    "photo_url": "khakis5.jpg",
+    "price": 12.34
+  },
+  {
+    "name": "Red Khakis",
+    "photo_url": "khakis5.jpg",
+    "price": 42.23
+  },
+  {
+    "name": "Yellow  Khakis",
+    "photo_url": "khakis7.jpg",
+    "price": 29.99
+  },
+  {
+    "name": "Small Khakis",
+    "photo_url": "khakis8.jpg",
+    "price": 29.49
+  },
+  {
+    "name": "Black Khakis",
+    "photo_url": "khakis9.jpg",
+    "price": 19.49
+  },
+  {
+    "name": "Red Khakis",
+    "photo_url": "khakis10.jpg",
+    "price": 24.49
+  },
+  {
+    "name": "Yellow Khakis",
+    "photo_url": "khakis11.jpg",
+    "price": 2.99
+  },
+  {
+    "name": "Blue Khakis",
+    "photo_url": "khakis12.jpg",
+    "price": 12.34
+  },
+  {
+    "name": "Red Khakis",
+    "photo_url": "khakis13.jpg",
+    "price": 42.23
+  },
+  {
+    "name": "Yellow  Khakis",
+    "photo_url": "khakis14.jpg",
+    "price": 29.99
+  },
+  {
+    "name": "Small Khakis",
+    "photo_url": "khakis15.jpg",
+    "price": 29.49
+  },
+  {
+    "name": "Black Khakis",
+    "photo_url": "khakis16.jpg",
+    "price": 19.49
+  },
+  {
+    "name": "Red Khakis",
+    "photo_url": "khakis17.jpg",
+    "price": 24.49
+  },
+  {
+    "name": "Yellow Khakis",
+    "photo_url": "khakis18.jpg",
+    "price": 2.99
+  },
+  {
+    "name": "Blue Khakis",
+    "photo_url": "khakis19.jpg",
+    "price": 12.34
+  },
+  {
+    "name": "Red Khakis",
+    "photo_url": "khakis20.jpg",
+    "price": 42.23
+  },
+  {
+    "name": "Yellow  Khakis",
+    "photo_url": "khakis21.jpg",
+    "price": 29.99
+  },
+  {
+    "name": "Khani Khakis",
+    "photo_url": "khakis22.jpg",
+    "price": 9.95
+  }
+]
